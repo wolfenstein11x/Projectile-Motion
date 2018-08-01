@@ -3,9 +3,9 @@ Calculates a projectile motion equation after the user enters the initial height
 
 How to use:
 
-Go to the file projectile.cpp
+Go to the file projectile.rb
 
-Copy everything except the first line that says #include stdafx.h (That line is just to make it work using Visual Studio)
+Copy everything in that file
 
 Google "repl.it" and click the first link
 
