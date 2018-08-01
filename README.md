@@ -11,6 +11,6 @@ Google "repl.it" and click the first link
 
 Select Ruby from the scroll down menu
 
-Delete the default "Hello World" program on the left, and paste in the projectile.cpp code in its place
+Paste the code from the projectile.rb file into the box on the left
 
 Click "Run"
